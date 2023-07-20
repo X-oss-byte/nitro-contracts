@@ -29,7 +29,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "4.9.2",
     "@openzeppelin/contracts-upgradeable": "4.9.2",
-    "patch-package": "^6.4.7"
+    "patch-package": "^6.5.1"
   },
   "private": false,
   "devDependencies": {
