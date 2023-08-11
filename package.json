@@ -27,7 +27,7 @@
     "postinstall": "patch-package"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "4.9.2",
+    "@openzeppelin/contracts": "4.9.3",
     "@openzeppelin/contracts-upgradeable": "4.9.2",
     "patch-package": "^6.5.1"
   },
